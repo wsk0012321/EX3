@@ -6,3 +6,4 @@
 ####     https://drive.google.com/file/d/1-Ahy7mWKr95gFt6jbPwV_2Ziz5NnBn3Y/view
 ### The model is trained with original version of DeepMet-vua.py on VUAMC corpus with the following parameters:
 #### max length = 128, batchsize = 64, dropout rate = 0.1, n-fold = 2, hidden size = 768, random state = 2020, validation split = 0.2, learning rate = 2e-5, epochs = 3
+#### For compatibility, it is advisable to use Python 3.9.
